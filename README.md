@@ -1,2 +1,0 @@
-# dubbo.xsd
-dubbo.xsd
